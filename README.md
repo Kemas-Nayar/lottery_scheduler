@@ -1,5 +1,5 @@
 # lottery_scheduler
 
-`bash
+```bash
 make run
-`
+```
